@@ -304,7 +304,5 @@ const exporting = {
     findOGTags,
     findHTMLMetaTags,
 };
-// For testing
-module.exports = exporting;
 
 export default exporting;

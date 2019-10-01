@@ -2,7 +2,7 @@ import OpenGraphAwareInput from './OpenGraphAwareInput';
 import OpenGraphDisplay from './OpenGraphDisplay';
 import OpenGraphParser from './OpenGraphParser';
 
-module.exports = {
+export default {
     OpenGraphAwareInput,
     OpenGraphDisplay,
     OpenGraphParser
